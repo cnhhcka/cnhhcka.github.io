@@ -4157,7 +4157,7 @@ a.pswp__share--download:hover {
 
 .left-col {
     /* background:#fff; */
-    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('http://csj.qinrunfa.top/edc75ec5a89a4815bb4c1a630a7f447a.jpg') no-repeat 0% 20%/ cover;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('./img/1.jpg') no-repeat 0% 20%/ cover;
     width: 300px;
     position: fixed;
     opacity: 1;
@@ -4173,7 +4173,7 @@ a.pswp__share--download:hover {
     margin: 30px;
     border: 1px solid #ddd;
     border-top: 1px solid #fff;
-    border-b ottom: 1px solid #fff;
+    border-bottom: 1px solid #fff;
     /* background:#fff; */
     background: rgba(255, 255, 255, .5);
     transition: all .2s ease-in
